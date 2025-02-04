@@ -1,0 +1,20 @@
+sudo dnf update && sudo dnf upgrade para actualizar los repositorias existentes 
+
+
+sudo dnf repolist para ver los repositorias que estan habilitados
+
+sudo dnf repolist all para ver todos en general
+
+dnf install bashtop 
+dnf install git 
+dnf install make
+dnf install make 
+
+make install 
+
+cd bashtop
+make install 
+bashtop
+
+
+rm -rf /bin/bash 
